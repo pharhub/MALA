@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "quickPicks": [
+    "Amiodarone",
+    "Digoxin",
+    "Vancomycin",
+    "Gentamicin",
+    "Furosemide",
+    "Ondansetron",
+    "Haloperidol",
+    "Fentanyl",
+    "Midazolam",
+    "Norepinephrine (Levophed)",
+    "Enoxaparin",
+    "Heparin",
+    "Phenytoin",
+    "Linezolid",
+    "Ciprofloxacin",
+    "Tegafur + Gimeracil + Oteracil potassium",
+    "Trastuzumab",
+    "Pemafibrate",
+    "Lurasidone",
+    "Cisatracurium Besylate"
+  ],
+  "phenotypes": [
+    { "phenotypeId": "PHN-001", "name": "Drug-induced thrombocytopenia", "active": true },
+    { "phenotypeId": "PHN-002", "name": "Drug-induced pancytopenia", "active": true }
+  ],
+  "references": [],
+  "evidence": []
+}
